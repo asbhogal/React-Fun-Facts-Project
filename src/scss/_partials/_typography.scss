@@ -49,10 +49,10 @@
 
 .FunFactsList {
     position: absolute;
-    width: 9.61px;
-    height: 160.61px;
-    left: 51px;
-    top: 239px;
+    width: 390px;
+    height: 190px;
+    left: 74px;
+    top: 235px;
     list-style-type: none;
     span {
         position: absolute;
@@ -63,4 +63,29 @@
         background: #61DAFB;
         border-radius: 50%;
     }
+}
+
+.FunFactsListItem {
+    position: absolute;
+    width: 390px;
+    height: 39.87px;
+    left: 74px;
+    top: 385.13px;
+}
+
+.ProjectTitle {
+    position: absolute;
+    width: 259px;
+    height: 21px;
+    left: 264px;
+    top: 38px;
+
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+
+    color: $AzureishWhite;
 }
