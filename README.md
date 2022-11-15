@@ -4,7 +4,7 @@
 
 </div>
 
-A simple section page created as part of the freeCodeCamp's React tutorial, coded with HTML5, CSS3, SCSS, JavaScript (ES6), React and leveraging Babel and Webpack. This repo is currently under development.
+A simple section page created as part of the freeCodeCamp's React tutorial, coded with HTML5, CSS3, SCSS, JavaScript (ES6), React and leveraging Babel and Webpack. The design has been faithfully adapted from a Figma file (see mockups directory.) This repo is currently under development.
 
 <strong>:heavy_check_mark: Features:</strong><br>
   - Fully responsive
