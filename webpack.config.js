@@ -7,7 +7,7 @@ const   path = require("path"),
             new CleanWebpackPlugin(),
             new MiniCSSExtractPlugin(),
             new HTMLWebpackPlugin({
-                title: "Webpack-React Tutorial",
+                title: "React Section Project",
                 template: "./src/index.html"
             }),
         ];
