@@ -1,12 +1,12 @@
 import "../scss/index.scss";
 import Header from "./Header";
-import Body from "./Body";
+import Section from "./Section";
 
 const App = () => {
     return (
-        <div>
+        <div className="content">
             <Header />
-            <Body />
+            <Section />
         </div>
     )
 }

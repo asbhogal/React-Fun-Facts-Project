@@ -3,3 +3,7 @@
 @use '_partials/responsive' as *;
 @use '_partials/typography' as *;
 @use '_partials/variables' as *;
+
+@use '_partials/components/content' as *;
+@use '_partials/components/header' as *;
+@use '_partials/components/section.scss' as *;

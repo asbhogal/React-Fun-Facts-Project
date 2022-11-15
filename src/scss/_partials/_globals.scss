@@ -1,0 +1,16 @@
+@use './variables' as *;
+
+body {
+    background-color: red;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    background-color: $CharlestonGreen;
+    border: none;
+}
