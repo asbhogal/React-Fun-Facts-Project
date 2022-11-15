@@ -4,7 +4,7 @@ body {
     background-color: red;
 }
 
-#root {
+/*#root {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,4 +13,11 @@ body {
     height: 500px;
     background-color: $Gunmetal;
     border: none;
+}*/
+
+#root {
+    position: relative;
+    width: 550px;
+    height: 550px;
 }
+

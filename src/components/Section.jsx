@@ -2,9 +2,10 @@ const Section = () => {
     return (
         <section className="Section">
             <h2 className="FunFactsTitle">
-                Fun facts about react
+                Fun facts about React
             </h2>
             <ul className="FunFactsList">
+                <span className={'BulletPoint'}></span>
                 <li className="FunFactsListItem">Was first released in 2013</li>
                 <li className="FunFactsListItem">Was originally created by Jordan Walke</li>
                 <li className="FunFactsListItem">Has well over 100K starts on GitHub</li>
@@ -12,7 +13,7 @@ const Section = () => {
                 <li className="FunFactsListItem">Powers thousands of enterprise apps, including mobile apps</li>
             </ul>
         </section>
-    )
+    );
 }
 
 export default Section
