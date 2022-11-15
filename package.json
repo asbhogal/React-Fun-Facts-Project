@@ -1,0 +1,20 @@
+{
+  "name": "react-section-project",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asbhogal/React-Section-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asbhogal/React-Section-Project/issues"
+  },
+  "homepage": "https://github.com/asbhogal/React-Section-Project#readme"
+}
