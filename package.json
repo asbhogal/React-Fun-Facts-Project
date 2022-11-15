@@ -1,8 +1,9 @@
 {
   "name": "react-section-project",
   "version": "1.0.0",
-  "description": "<div align=\"center\">",
+  "description": "A simple section page created as part of the freeCodeCamp's React tutorial, coded with HTML5, CSS3, SCSS, JavaScript (ES6), React and leveraging Babel and Webpack.",
   "main": "index.js",
+  "private" : true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,10 +12,10 @@
     "url": "git+https://github.com/asbhogal/React-Section-Project.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aman Singh Bhogal",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/asbhogal/React-Section-Project/issues"
   },
-  "homepage": "https://github.com/asbhogal/React-Section-Project#readme"
+  "homepage": "https://github.com/asbhogal/React-Section-Project"
 }
