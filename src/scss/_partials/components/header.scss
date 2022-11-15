@@ -1,4 +1,6 @@
-.header {
+@use '../variables' as *;
+
+.Header {
     display: flex;
-    background: yellow;
+    background-color: $DarkGunmetal;
 }
