@@ -61,10 +61,10 @@
     color: #FFFFFF;
 }
 
-@for $i from 2 through 5 {
-    .BulletPoint-#{$i} { top: calc(100% / 4) * $i; }
+@for $i from 1 to 5 {
+    .BulletPoint-#{$i} { top: calc(100% / 5) * $i; }
 }
 
-@for $i from 2 through 5 {
-    .FunFactsListItem-#{$i} { height: calc(100% / 5) * $i ;}
-}
+// @for $i from 1 to 5 {
+//     .FunFactsListItem-#{$i} { height: calc(100% / 5) * $i ;}
+// }
