@@ -2,7 +2,7 @@
 
 <h1>React 'Fun Facts' Project - freeCodeCamp</h1>
 
-![](https://api.checklyhq.com/v1/badges/checks/434e83c0-7b38-47e3-ba59-6348b0600d19?style=for-the-badge&theme=dark) ![](https://api.checklyhq.com/v1/badges/checks/434e83c0-7b38-47e3-ba59-6348b0600d19?style=for-the-badge&theme=dark&responseTime=true) <br><br> ![GitHub deployments](https://img.shields.io/github/deployments/asbhogal/React-Section-Project/production?label=DEPLOYMENT%20STATE&style=for-the-badge&labelColor=000) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/asbhogal/React-Section-Project?style=for-the-badge&labelColor=000) ![GitHub repo size](https://img.shields.io/github/repo-size/asbhogal/React-Section-Project?color=blueviolet&style=for-the-badge&labelColor=000)
+![](https://api.checklyhq.com/v1/badges/checks/434e83c0-7b38-47e3-ba59-6348b0600d19?style=for-the-badge&theme=dark) ![](https://api.checklyhq.com/v1/badges/checks/434e83c0-7b38-47e3-ba59-6348b0600d19?style=for-the-badge&theme=dark&responseTime=true) <br><br> ![GitHub deployments](https://img.shields.io/github/deployments/asbhogal/React-Fun-Facts-Project/production?label=DEPLOYMENT%20STATE&style=for-the-badge&labelColor=000) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/asbhogal/React-Fun-Facts-Project?style=for-the-badge&labelColor=000) ![GitHub repo size](https://img.shields.io/github/repo-size/asbhogal/React-Fun-Facts-Project?color=blueviolet&style=for-the-badge&labelColor=000)
 
 </div>
 
