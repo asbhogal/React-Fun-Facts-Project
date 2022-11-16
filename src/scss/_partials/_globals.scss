@@ -1,23 +1,9 @@
 @use './variables' as *;
 
-body {
-    background-color: red;
+* {
+    margin: 0;
+    padding: 0;
+    &:is(&::after, &::before, *) {
+        box-sizing: border-box;
+    }
 }
-
-/*#root {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    width: 600px;
-    height: 500px;
-    background-color: $Gunmetal;
-    border: none;
-}*/
-
-#root {
-    position: relative;
-    width: 550px;
-    height: 550px;
-}
-
