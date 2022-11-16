@@ -7,4 +7,21 @@
     height: 91px;
     left: 0px;
     top: 0px;
+    background-color: $DarkGunmetal;
+    .ProjectTitle {
+        position: absolute;
+        width: 259px;
+        height: 21px;
+        left: 264px;
+        top: 38px;
+
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: right;
+
+        color: #DEEBF8;
+    }
 }

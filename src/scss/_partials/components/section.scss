@@ -1,10 +1,70 @@
 @use '/src/scss/_partials/variables' as *;
+@use '/src/scss/_partials/typography' as *;
 
 
 .Section {
     position: absolute;
-    width: 681px;
+    width: 550px;
     height: 459px;
     left: 0px;
     top: 91px;
+    background-color: $Gunmetal;
+}
+
+.FunFactsList {
+    position: absolute;
+    width: 390px;
+    height: 190px;
+    left: 74px;
+    top: 144px;
+    list-style-type: none;
+}
+
+.FunFactsTitle {
+    position: absolute;
+    width: 424px;
+    height: 41px;
+    left: 27px;
+    top: 57px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39.06px;
+    line-height: 47px;
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+
+.BulletPoints {
+    position: absolute;
+    width: 9.61px;
+    height: 160.61px;
+    left: 51px;
+    top: 148px;
+    .BulletPoint {
+        background-color: $SkyBlue;
+        border-radius: 50%;
+        position: absolute;
+        width: 9.61px;
+        height: 9.61px;
+    }
+}
+
+.FunFactsListItem {
+    width: 390px;
+    left: 74px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+@for $i from 2 through 5 {
+    .BulletPoint-#{$i} { top: calc(100% / 4) * $i; }
+}
+
+@for $i from 2 through 5 {
+    .FunFactsListItem-#{$i} { height: calc(100% / 5) * $i ;}
 }

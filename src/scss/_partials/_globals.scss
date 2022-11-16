@@ -6,4 +6,11 @@
     &:is(&::after, &::before, *) {
         box-sizing: border-box;
     }
+    outline: 2px red solid;
+}
+
+body { 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
 }
