@@ -23,8 +23,9 @@ A simple 'React Fun Facts' page created as part of the freeCodeCamp's React tuto
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel logo" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack logo" width="50" height="50" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="50" height="50" style="max-width:100%;"></a>
 
 <strong>:link: Links</strong><br>
- - <a target="_blank" href="http://React-Fun-Facts-Project.vercel.app/">React Section Project</a>
+ - <a target="_blank" href="http://React-Fun-Facts-Project.vercel.app/">React 'Fun Facts' Project</a>
  - <a target="_blank" href="https://www.youtube.com/watch?v=bMknfKXIFA8">freeCodeCamp course - YouTube</a>
  - <a target="_blank" href="https://scrimba.com/learn/learnreact">freeCodeCamp course - Scrimba</a>
