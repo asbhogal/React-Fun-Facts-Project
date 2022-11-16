@@ -1,7 +1,6 @@
 @use '../variables' as *;
 @use '../typography' as *;
 
-
 .Header {
     position: absolute;
     width: 550px;
@@ -15,15 +14,7 @@
         height: 21px;
         left: 264px;
         top: 37px;
-
-        font-family: 'Inter', sans-serif;
-        font-style: normal;
-        font-weight: 600;
-        font-size: 16px;
-        line-height: 19px;
-        text-align: right;
-
-        color: #DEEBF8;
+        color: $AzureishWhite;
     }
     .ReactFactsTitle {
         position: absolute;
@@ -31,13 +22,7 @@
         height: 22.25px;
         left: 61.61px;
         top: 33px;
-        font-family: 'Inter', sans-serif;
-        font-style: normal;
-        font-weight: 700;
-        font-size: 22.2535px;
-        line-height: 27px;
-        letter-spacing: -0.05em;
-        color: #61DAFB;
+        color: $SkyBlue;
     }
     .ReactLogo {
         position: absolute;

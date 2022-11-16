@@ -1,5 +1,7 @@
 @use 'variables' as *;
 
+/********** FONT IMPORTS **********/
+
 /****** INTER - 700 ******/
 
 @font-face {
@@ -31,4 +33,43 @@
     src:    url('/src/fonts/Inter-Regular.woff'), format('woff'),
             url('/src/fonts/Inter-Regular.woff2'), format('woff2');
     font-display: swap;
+}
+
+/********** FONT STYLING **********/
+
+.Header {
+    .ProjectTitle {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: right;
+    }
+    .ReactFactsTitle {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22.2535px;
+        line-height: 27px;
+        letter-spacing: $LetterSpacing;
+    }
+}
+
+.Section {
+    .FunFactsTitle {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 39.06px;
+        line-height: 47px;
+        letter-spacing: $LetterSpacing;
+    }
+    .FunFactsList > .FunFactsListItem {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+    }
 }
