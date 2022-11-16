@@ -73,6 +73,6 @@
     .BulletPoint-#{$i} { top: calc(160.61px / 5) * $i; }
 }
 
-@for $i from 1 to 5 {
-    .FunFactsListItem-#{$i} { line-height: calc(190px / 5) ;}
+@for $i from 2 through 5 {
+    .FunFactsListItem-#{$i} { margin-top: 13px ;}
 }
