@@ -6,10 +6,10 @@
 
 </div>
 
-A simple 'React Facts'' page created as part of the freeCodeCamp's React tutorial, coded with HTML5, CSS3, SCSS, JavaScript (ES6), React and leveraging Babel and Webpack. The design has been faithfully adapted from a Figma file (see mockups directory.) This repo is currently under development.
+A simple 'React Fun Facts' page created as part of the freeCodeCamp's React tutorial, coded with HTML5, CSS3, SCSS, JavaScript (ES6), React and leveraging Babel and Webpack. The design has been faithfully adapted from a Figma file (see mockups directory.)
 
 <strong>:heavy_check_mark: Features:</strong><br>
-  - Faithful design to Figma mockup
+  - Designed from Figma mockup
   - Fully responsive
   - Optimised for the web
 
@@ -26,4 +26,5 @@ A simple 'React Facts'' page created as part of the freeCodeCamp's React tutoria
 
 <strong>:link: Links</strong><br>
  - <a target="_blank" href="http://React-Fun-Facts-Project.vercel.app/">React Section Project</a>
- - <a target="_blank" href="https://www.youtube.com/watch?v=bMknfKXIFA8">freeCodeCamp course</a>
+ - <a target="_blank" href="https://www.youtube.com/watch?v=bMknfKXIFA8">freeCodeCamp course - YouTube</a>
+ - <a target="_blank" href="https://scrimba.com/learn/learnreact">freeCodeCamp course - Scrimba</a>
