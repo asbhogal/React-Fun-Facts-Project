@@ -25,5 +25,5 @@ A simple section page created as part of the freeCodeCamp's React tutorial, code
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack logo" width="50" height="50" style="max-width:100%;"></a>
 
 <strong>:link: Links</strong><br>
- - <a target="_blank" href="http://React-Section-Project.vercel.app/">React Section Project</a>
+ - <a target="_blank" href="http://React-Fun-Facts-Project.vercel.app/">React Section Project</a>
  - <a target="_blank" href="https://www.youtube.com/watch?v=bMknfKXIFA8">freeCodeCamp course</a>
