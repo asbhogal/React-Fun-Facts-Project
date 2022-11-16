@@ -18,6 +18,7 @@
     left: 74px;
     top: 144px;
     list-style-type: none;
+    z-index: 1;
 }
 
 .FunFactsTitle {
@@ -61,10 +62,17 @@
     color: #FFFFFF;
 }
 
-@for $i from 1 to 5 {
-    .BulletPoint-#{$i} { top: calc(100% / 5) * $i; }
+.ReactBackgroundLogo {
+    position: absolute;
+    height: 263px;
+    left: 418px;
+    top: 107px;
 }
 
-// @for $i from 1 to 5 {
-//     .FunFactsListItem-#{$i} { height: calc(100% / 5) * $i ;}
-// }
+@for $i from 1 to 5 {
+    .BulletPoint-#{$i} { top: calc(160.61px / 5) * $i; }
+}
+
+@for $i from 1 to 5 {
+    .FunFactsListItem-#{$i} { line-height: calc(190px / 5) ;}
+}

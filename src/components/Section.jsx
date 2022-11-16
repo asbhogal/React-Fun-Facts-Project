@@ -1,3 +1,5 @@
+import reactBackGroundLogo from "../mockups/reactjs-icon-2.png";
+
 const Section = () => {
     return (
         <section className="Section">
@@ -18,6 +20,7 @@ const Section = () => {
                 <li className="FunFactsListItem FunFactsListItem-4">Is maintained by Facebook</li>
                 <li className="FunFactsListItem FunFactsListItem-5">Powers thousands of enterprise apps, including mobile apps</li>
             </ul>
+            <img className="ReactBackgroundLogo" src={ reactBackGroundLogo } alt="React logo"></img>
         </section>
     )
 }
