@@ -7,7 +7,8 @@ const   path = require("path"),
             new CleanWebpackPlugin(),
             new MiniCSSExtractPlugin(),
             new HTMLWebpackPlugin({
-                title: "React Section Project",
+                title: "React Fun Facts Project",
+                author: "Aman Singh Bhogal & freeCodeCamp",
                 template: "./src/index.html"
             }),
         ];

@@ -3,32 +3,32 @@
 
 .Header {
     position: absolute;
-    width: 550px;
-    height: 91px;
-    left: 0px;
-    top: 0px;
+    width: 34.375rem;
+    height: 5.6875rem;
+    left: 0rem;
+    top: 0rem;
     background-color: $DarkGunmetal;
     .ProjectTitle {
         position: absolute;
-        width: 259px;
-        height: 21px;
-        left: 264px;
-        top: 37px;
+        width: 16.1875rem;
+        height: 1.3125rem;
+        left: 16.5rem;
+        top: 2.3125rem;
         color: $AzureishWhite;
     }
     .ReactFactsTitle {
         position: absolute;
-        width: 122.39px;
-        height: 22.25px;
-        left: 61.61px;
-        top: 33px;
+        width: 7.6494rem;
+        height: 1.3906rem;
+        left: 3.8506rem;
+        top: 2.0625rem;
         color: $SkyBlue;
     }
     .ReactLogo {
         position: absolute;
-        width: 28.93px;
-        height: 28.93px;
-        left: 26px;
-        top: 31px;
+        width: 1.8081rem;
+        height: 1.8081rem;
+        left: 1.625rem;
+        top: 1.9375rem;
     }
 }
